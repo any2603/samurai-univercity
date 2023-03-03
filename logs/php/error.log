@@ -1,0 +1,1 @@
+[04-Feb-2023 23:17:37 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/aihida/Local Sites/samurai-university/app/public/wp-includes/class-wp-customize-widgets.php on line 900
